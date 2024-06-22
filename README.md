@@ -1,4 +1,4 @@
-# Hospital-Management-System
+# Prescription-Management-System
 
 A website was developed for a hospital where doctors can login and manage their patient records effortlessly. New data can be efficiently added and stored in a database.
 
